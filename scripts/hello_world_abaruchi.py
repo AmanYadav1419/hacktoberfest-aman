@@ -5,4 +5,4 @@
 
 a = "Hello"
 b = "World"
-print("{} {}".format(a, b))
+print(f"{a} {b}")
