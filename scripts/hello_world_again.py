@@ -5,7 +5,7 @@
 def greetings(name):
     print('\n')
     print('Hello, World!')
-    print('And Hello, {}!'.format(name))
+    print(f'And Hello, {name}!')
     print('\n')
     return 0
 
